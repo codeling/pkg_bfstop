@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="2.5">
+	<name>Brute Force Stop Package</name>
+	<author>Bernhard Froehler</author>
+	<creationDate>May 2013</creationDate>
+	<packagename>bfstop</packagename>
+	<version>0.9.10</version>
+	<url>https://github.com/codeling/pkg_bfstop</url>
+	<packager>Bernhard Froehler</packager>
+	<packagerurl>http://github.com/codeling/pkg_bfstop</packagerurl>
+	<description>This package contains all extensions known as Brute Force Stop (bfstop)</description>
+	<update>https://github.com/codeling/pkg_bfstop</update>
+	<files folder="packages">
+		<file type="component" id="bfstop">com_bfstop.zip</file>
+		<file type="plugin" id="bfstop">plg_sys_bfstop.zip</file>
+	</files>
+</extension>
