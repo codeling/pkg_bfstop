@@ -1,0 +1,10 @@
+This is the Joomla! installation package containing
+both the bfstop plugin as well as the com_bfstop
+component. Both are needed for a fully operational
+installation of the Brute Force Stop functionality!
+
+This repository only contains the installation files;
+any problems are better reported in the repository
+of the "core" of the functionality, the bfstop plugin,
+located here:
+https://github.com/codeling/bfstop/issues
