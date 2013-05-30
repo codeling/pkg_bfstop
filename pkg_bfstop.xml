@@ -13,4 +13,7 @@
 		<file type="component" id="com_bfstop">com_bfstop.zip</file>
 		<file type="plugin" id="bfstop" group="system">plg_sys_bfstop.zip</file>
 	</files>
+	<updateservers>
+		<server type="collection">https://github.com/codeling/pkg_bfstop/blob/master/update.xml</server>
+	</updateservers>
 </extension>

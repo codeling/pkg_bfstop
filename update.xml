@@ -1,0 +1,4 @@
+<extensionset name="Brute Force Stop" description="Brute Force Stop">
+	<extension name="Brute Force Stop" element="plg_system_bfstop" type="plugin" version="0.9.10.1" detailsurl="https://github.com/codeling/bfstop/blob/master/update.xml" />
+	<extension name="Brute Force Stop Administration" element="com_bfstop" type="component" version="0.9.10.1" detailsurl="https://github.com/codeling/com_bfstop/blob/master/update.xml" />
+</extensionset>
