@@ -4,7 +4,9 @@ component. Both are needed for a fully operational
 installation of the Brute Force Stop functionality!
 
 This repository only contains the installation files;
-any problems are better reported in the repository
-of the "core" of the functionality, the bfstop plugin,
-located here:
+for more information, see the bfstop extension wiki:
+https://github.com/codeling/bfstop/wiki
+
+Any problems should be reported in the common issue
+tracker of the bfstop extension, located here:
 https://github.com/codeling/bfstop/issues
