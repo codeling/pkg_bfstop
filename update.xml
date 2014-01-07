@@ -1,4 +1,4 @@
-<?xml version="1.2.0beta1" encoding="UTF-8" ?>
+<?xml version="1.2.0" encoding="UTF-8" ?>
 <extensionset name="Brute Force Stop Package" description="Brute Force Stop Package">
-	<extension name="Brute Force Stop Package" element="pkg_bfstop" type="package" version="1.2.0beta1" detailsurl="https://raw.github.com/codeling/pkg_bfstop/master/update-pkg.xml" />
+	<extension name="Brute Force Stop Package" element="pkg_bfstop" type="package" version="1.2.0" detailsurl="https://raw.github.com/codeling/pkg_bfstop/master/update-pkg.xml" />
 </extensionset>
