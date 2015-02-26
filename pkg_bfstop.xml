@@ -14,6 +14,6 @@
 		<file type="plugin" id="bfstop" group="system">plg_sys_bfstop.zip</file>
 	</files>
 	<updateservers>
-		<server type="collection" name="BFStop Package Update Server">https://raw.github.com/codeling/pkg_bfstop/master/update.xml</server>
+		<server type="collection" name="BFStop Package Update Server">https://bfstop.bfroehler.info/update.xml</server>
 	</updateservers>
 </extension>
