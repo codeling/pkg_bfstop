@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<extension type="package" version="2.5">
+<extension type="package" version="2.5" method="upgrade">
 	<name>Brute Force Stop Package</name>
 	<author>Bernhard Froehler</author>
 	<creationDate>May 2013</creationDate>
+	<copyright>Copyright (C) 2013-2017 by Bernhard Froehler</copyright>
 	<packagename>bfstop</packagename>
-	<version>1.3.0</version>
+	<version>1.4.0</version>
 	<url>https://github.com/codeling/pkg_bfstop</url>
 	<packager>Bernhard Froehler</packager>
 	<packagerurl>http://github.com/codeling/pkg_bfstop</packagerurl>
