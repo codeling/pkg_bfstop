@@ -3,10 +3,10 @@
 	<name>Brute Force Stop Package</name>
 	<author>Bernhard Froehler</author>
 	<creationDate>May 2013</creationDate>
-	<copyright>Copyright (C) 2013-2017 by Bernhard Froehler</copyright>
+	<copyright>Copyright (C) 2013-2021 by Bernhard Froehler</copyright>
 	<license>GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html</license>
 	<packagename>bfstop</packagename>
-	<version>1.4.1</version>
+	<version>1.4.2</version>
 	<url>https://github.com/codeling/pkg_bfstop</url>
 	<packager>Bernhard Froehler</packager>
 	<packagerurl>http://github.com/codeling/pkg_bfstop</packagerurl>
