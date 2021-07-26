@@ -1,6 +1,6 @@
 #!/bin/bash
 name=bfstop
-version=1.4.3
+version=1.4.4
 
 pkg_name=pkg_${name}
 zipfile_name=${pkg_name}-${version}.zip
