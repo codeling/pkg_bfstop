@@ -6,7 +6,7 @@
 	<copyright>Copyright (C) by Bernhard Froehler</copyright>
 	<license>GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html</license>
 	<packagename>bfstop</packagename>
-	<version>1.5.0</version>
+	<version>1.5.1</version>
 	<url>https://github.com/codeling/pkg_bfstop</url>
 	<packager>Bernhard Froehler</packager>
 	<packagerurl>http://github.com/codeling/pkg_bfstop</packagerurl>
