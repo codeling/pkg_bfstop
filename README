@@ -1,25 +1,13 @@
-This is the Joomla! installation package containing
-both the bfstop plugin as well as the com_bfstop
-component. Both are needed for a fully operational
-installation of the Brute Force Stop functionality!
+This repository is no longer used.
 
-This repository only contains the installation files;
-for more information, see the bfstop extension wiki:
-https://github.com/codeling/bfstop/wiki
+The Brute Force Stop package (plugin and component in one Joomla!
+installation package) is now built in the plugin's repository, from the
+release tags of plugin and component, by CI:
 
-Any problems should be reported in the common issue
-tracker of the bfstop extension, located here:
+    https://github.com/codeling/bfstop/tree/main/package
+
+Releases (with the package zip) are published at
+https://github.com/codeling/bfstop/releases
+
+Problems should be reported in the issue tracker of the bfstop extension:
 https://github.com/codeling/bfstop/issues
-
-Requirements: BFStop 2 needs Joomla! 5 or 6 and PHP 8.1 or newer; the
-package refuses to install on anything older (sites on Joomla! 4 stay with
-BFStop 1.5).
-
-Building a release: check out the release's tag of the plugin
-(codeling/bfstop) and the component (codeling/com_bfstop), then
-
-    ./deploy.sh <plugin checkout> <component checkout>
-
-builds both extension zips into packages/ and the package zip from them. It
-refuses to build a package whose packages/ hold another version than the
-package's, so a release can't ship the extensions of an earlier one.
